@@ -2,9 +2,7 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
-  </a>
+  <p> Here is my personal portfolio website featuring a little bit about me, my skills, experiences, and ways to contact me! </p>
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
