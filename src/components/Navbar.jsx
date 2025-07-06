@@ -6,7 +6,7 @@ const navItems = [
   { name: "Home", href: "#hero" },
   { name: "About", href: "#about" },
   { name: "Skills", href: "#skills" },
-  { name: "Projects", href: "#projects" },
+  { name: "Experience", href: "projects"},
   { name: "Contact", href: "#contact" },
 ];
 
@@ -34,10 +34,7 @@ export const Navbar = () => {
           className="text-xl font-bold text-primary flex items-center"
           href="#hero"
         >
-          <span className="relative z-10">
-            <span className="text-glow text-foreground"> PedroTech </span>{" "}
-            Portfolio
-          </span>
+          
         </a>
 
         {/* desktop nav */}
