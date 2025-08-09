@@ -4,8 +4,8 @@ const projects = [
   {
     id: 1,
     title: "Software Engineering Intern at Markel",
-    description: "jjjj",
-    image: "/projects/project1.png",
+    description: "Refined internal AI assistant for the Product Regulatory Services team using C#, Microsoft Semantic Kernel, and API calls, reducing manual form lookup by 50%. Enabled underwriters to focus on projects that provided real value.",
+    image: "/projects/Markel.JPEG",
     tags: ["Python", "Azure Databricks", "SQL", "Jira", "Power BI", "C#", "Angular.js"],
     
   },
