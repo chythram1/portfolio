@@ -1,7 +1,7 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
-
+ 
 const experience = [
-  { 
+  {
     id: 1,
     title: "Software Engineering Intern at Markel",
     description: "Refined internal AI assistant for the Product Regulatory Services team using C#, Microsoft Semantic Kernel, and API calls, reducing manual form lookup by 50%. Enabled underwriters to focus on projects that provided real value.",
@@ -13,7 +13,7 @@ const experience = [
     id: 2,
     title: "IT Intern at Indivior",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "Resolved technical issues for business users through ServiceNow, refined application documentation, and developed Power BI dashboard to visualize regional sales data for business teams",
     image: "/projects/experience2.gif",
     tags: ["Power BI", "ServiceNow", "Azure AD", "Adobe Premire Pro", "Excel"],
     
@@ -22,7 +22,7 @@ const experience = [
     id: 3,
     title: "Research Assistant at the Intrusion Detection Lab (VCU)",
     description:
-      "Research Project aimed at understanding conspiracy theory propagation networks on Twitter",
+      "Authored Research Paper with research team on our findings on conspiracy theory propagation networks on Twitter",
     image: "/projects/experience3.png",
     tags: ["Python", "Twitter", "Tweepy", "OverLeaf", "LaTeX", "Data Analysis"],
     demoUrl: "https://ieeexplore.ieee.org/document/10154285",
