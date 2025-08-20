@@ -4,8 +4,8 @@ const projects = [
   {
     id: 1,
     title: "Software Engineering Intern at Markel",
-    description: "jjjj",
-    image: "/projects/project1.png",
+    description: "Refined internal AI assistant for the Product Regulatory Services team using C#, Microsoft Semantic Kernel, and API calls, reducing manual form lookup by 50%. Enabled underwriters to focus on projects that provided real value.",
+    image: "/projects/Markel.JPEG",
     tags: ["Python", "Azure Databricks", "SQL", "Jira", "Power BI", "C#", "Angular.js"],
     
   },
@@ -13,7 +13,7 @@ const projects = [
     id: 2,
     title: "IT Intern at Indivior",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "Developed Power BI dashboard for various business teams, refined knowledge base libraries, and solved over 30 support tickets in ServiceNow. Got converted to a contractor in the school year to continue work!",
     image: "/projects/experience2.gif",
     tags: ["Power BI", "ServiceNow", "Azure AD", "Adobe Premire Pro", "Excel"],
     

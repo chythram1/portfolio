@@ -72,7 +72,7 @@ export const ContactSection = () => {
               <div className="space-y-6 text-left ml-13">
           <h3 className="text-2xl font-semibold mb-7">Connect With Me!</h3>
           <a
-            href="https://www.linkedin.com/in/chythra-malapati-885b3526a/"
+            href="https://www.linkedin.com/in/chythra-malapati/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block"
